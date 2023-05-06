@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Shariar Hossain Riad</h1>
 <h3>A passionate MERN developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently practicing **MERN**
 
 - 💬 Ask me about **FrontEnd Development, Tailwind CSS, Bootstrap, React, Next js, Sass**
 
